@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Base-Development-ECS.iml
+# Datasource local storage ignored files
+/../../../../../../:\Learning\Base-Development-ECS\.idea\.idea.Base-Development-ECS\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
